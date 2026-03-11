@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Кысь",
+        "author": "Татьяна Толстая",
+        "pages": 478,
+        "month": "2026-03",
+        "read": "",
+        "readed": 428
+    },
+    {
+        "title": "Гротеск",
+        "author": "Нацуо Кирино",
+        "pages": 151,
+        "month": "2026-03",
+        "read": "",
+        "readed": 0
+    },
+    {
+        "title": "Человек-комбини",
+        "author": "Саяка Мурата",
+        "pages": 160,
+        "month": "2026-03",
+        "read": "",
+        "readed": 0
+    },
+    {
+        "title": "Не может быть!",
+        "author": "Михаил Зощенко",
+        "pages": 350,
+        "month": "2026-03",
+        "read": false,
+        "readed": 0
+    },
+    {
+        "title": "Лес",
+        "author": "Светлана Толбашева",
+        "pages": 371,
+        "month": "2026-03",
+        "read": "❌",
+        "readed": 371
+    },
+    {
+        "title": "Благие знамения",
+        "author": "Нил Гейман, Терри Пратчетт",
+        "pages": 419,
+        "month": "2026-04",
+        "read": false,
+        "readed": 0
+    },
+    {
+        "title": "Колыбель для кошки",
+        "author": "Курт Воннегут",
+        "pages": 224,
+        "month": "2026-04",
+        "read": false,
+        "readed": 0
+    },
+    {
+        "title": "Осень патриарха",
+        "author": "Гариэль Гарсиа Маркес",
+        "pages": 35,
+        "month": "2026-04",
+        "read": false,
+        "readed": 0
+    },
+    {
+        "title": "Хоббит",
+        "author": "Джон Р.Р. Толкин",
+        "pages": 64,
+        "month": "2026-04",
+        "read": false,
+        "readed": 0
+    },
+    {
+        "title": "Ссудный день",
+        "author": "Чак Паланик",
+        "pages": 361,
+        "month": "2026-04",
+        "read": false,
+        "readed": 0
+    },
+    {
+        "title": "Туннель в небе",
+        "author": "Роберт Хайнлайн",
+        "pages": 68,
+        "month": "2026-04",
+        "read": false,
+        "readed": 0
+    },
+    {
+        "title": "Аннигиляция",
+        "author": "Джефф ВандерМир",
+        "pages": 200,
+        "month": "2026-04",
+        "read": false,
+        "readed": 0
+    }
+]
