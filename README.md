@@ -7,6 +7,8 @@ pic cut - cuts out a desired square area (configurable parameter) from a specifi
 
 book_planner - creates a plan of reading by month
 
+mini_refs_viewer - references storing for projects
+
 ----- RU -----
 
 macro_recorder - как ни страно, для записи макросов. Передвижение мыши, клики, нажатие клавиш. С возможностью назначать клавиши для старта/стопа/записи из списка
@@ -14,3 +16,5 @@ macro_recorder - как ни страно, для записи макросов.
 pic cut - вырезает из указанной картинки, нужную квадратную область (параметр настраиваемый) (ToDo: обернуть в exe)
 
 book_planner - создаёт план чтения на месяц
+
+mini_refs_viewer - хранение референсов для каки-то проектиков
