@@ -1,48 +1,36 @@
 [
     {
-        "title": "Кысь",
-        "author": "Татьяна Толстая",
-        "pages": 478,
-        "month": "2026-03",
-        "read": "",
-        "readed": 428
-    },
-    {
         "title": "Гротеск",
         "author": "Нацуо Кирино",
         "pages": 151,
+        "min": 4,
         "month": "2026-03",
         "read": "",
-        "readed": 0
+        "readed": 39
     },
     {
         "title": "Человек-комбини",
         "author": "Саяка Мурата",
         "pages": 160,
+        "min": 1,
         "month": "2026-03",
-        "read": "",
+        "read": false,
         "readed": 0
     },
     {
         "title": "Не может быть!",
         "author": "Михаил Зощенко",
         "pages": 350,
+        "min": 1,
         "month": "2026-03",
         "read": false,
-        "readed": 0
-    },
-    {
-        "title": "Лес",
-        "author": "Светлана Толбашева",
-        "pages": 371,
-        "month": "2026-03",
-        "read": "❌",
-        "readed": 371
+        "readed": 171
     },
     {
         "title": "Благие знамения",
         "author": "Нил Гейман, Терри Пратчетт",
         "pages": 419,
+        "min": 1,
         "month": "2026-04",
         "read": false,
         "readed": 0
@@ -51,6 +39,7 @@
         "title": "Колыбель для кошки",
         "author": "Курт Воннегут",
         "pages": 224,
+        "min": 1,
         "month": "2026-04",
         "read": false,
         "readed": 0
@@ -59,6 +48,7 @@
         "title": "Осень патриарха",
         "author": "Гариэль Гарсиа Маркес",
         "pages": 35,
+        "min": 1,
         "month": "2026-04",
         "read": false,
         "readed": 0
@@ -67,14 +57,16 @@
         "title": "Хоббит",
         "author": "Джон Р.Р. Толкин",
         "pages": 64,
+        "min": 1,
         "month": "2026-04",
-        "read": false,
+        "read": "",
         "readed": 0
     },
     {
         "title": "Ссудный день",
         "author": "Чак Паланик",
         "pages": 361,
+        "min": 1,
         "month": "2026-04",
         "read": false,
         "readed": 0
@@ -83,6 +75,7 @@
         "title": "Туннель в небе",
         "author": "Роберт Хайнлайн",
         "pages": 68,
+        "min": 1,
         "month": "2026-04",
         "read": false,
         "readed": 0
@@ -91,8 +84,27 @@
         "title": "Аннигиляция",
         "author": "Джефф ВандерМир",
         "pages": 200,
+        "min": 1,
         "month": "2026-04",
         "read": false,
         "readed": 0
+    },
+    {
+        "title": "Кысь",
+        "author": "Татьяна Толстая",
+        "pages": 478,
+        "min": 1,
+        "month": "2026-03",
+        "read": true,
+        "readed": 478
+    },
+    {
+        "title": "Лес",
+        "author": "Светлана Толбашева",
+        "pages": 371,
+        "min": 1,
+        "month": "2026-03",
+        "read": true,
+        "readed": 371
     }
 ]
